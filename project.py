@@ -22,7 +22,7 @@ def Goal(spot):
    return False
 
 
-if __name__ == '__main__':
+if True:
    initialstate = [1,4,2, 0,3,5, 6,7,8]
    goalstate = [0,1,2, 3,4,5, 6,7,8]
    goalreached = False
