@@ -2,7 +2,7 @@
 
 
 *Overview of the project:-  
-This project executed a solution for puzzle problems using the “Breadth First Search” algorithm which uses FIFO(first in,first out).The goal is to arrange the given initial state into a predefined goal state by repeatedly moving the number into the adjacent empty space.
+This project executed a solution for puzzle problems using the “Breadth First Search” algorithm which uses FIFO(first in,first out).This puzzle is made on a 3x3 matrix with eight numbers and one empty space(0) which can move up, down, left and rightThe goal is to arrange the given initial state into a predefined goal state by repeatedly moving the number into the adjacent empty space.
 
 
 *Features:-  
