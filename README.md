@@ -14,7 +14,7 @@ It tracks the number of states explored and search depth.
 
 
 *Technologies/tools used:-  
-Programming Language:- Python
+Programming Language:- Python  
 Libraries:- copy
 
 *Steps to install & run the project:-  
