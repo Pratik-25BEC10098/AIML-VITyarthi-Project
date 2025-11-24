@@ -7,7 +7,8 @@ This project executed a solution for 8 puzzle problems using the “Breadth Firs
 
 
 *Features-
-
+BFS will provide a solution if one is available.
+It will find the simplest one solution that needs few steps.
 This program uses the BFS algorithm which guarantees an optimal solution.
 It stores and prints sequences of moves from initial state to goal state.
 It tracks the number of states explored and search depth.
