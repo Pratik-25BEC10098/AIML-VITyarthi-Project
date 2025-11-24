@@ -1,8 +1,8 @@
-                                       8 Puzzle Solver Using Breadth First Search
+                                       Puzzle Solver Using Breadth First Search
 
 
 *Overview of the project:-  
-This project executed a solution for 8 puzzle problems using the “Breadth First Search” algorithm which uses FIFO(first in,first out).The goal is to arrange the given initial state into a predefined goal state by repeatedly moving the number into the adjacent empty space.
+This project executed a solution for puzzle problems using the “Breadth First Search” algorithm which uses FIFO(first in,first out).The goal is to arrange the given initial state into a predefined goal state by repeatedly moving the number into the adjacent empty space.
 
 
 *Features:-  
