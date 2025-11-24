@@ -1,5 +1,5 @@
 *Problem Statement:-  
-This project deals with Breadth First Search algorithms to solve puzzle problems.The core problem is to be solved in shortest moves or optimal path to reach the defined goal state.
+This project deals with Breadth First Search algorithms to solve puzzle problems.The core problem is to be solved in shortest moves or optimal path to reach the defined goal state by only moving up,down,left and right.
 
 *Scope of the project:-  
 This project is scoped to show the execution of the Breadth First Search algorithms to solve  puzzle problem.It is educational based rather than optimised for performance.
