@@ -1,16 +1,17 @@
-*Problem Statement 
+*Problem Statement:- 
 
 This project deals with Breadth First Search algorithms to solve 8 puzzle problems.The core problem is to be solved in shortest moves or optimal path to reach the defined goal state.
 
-*Scope of the project
+*Scope of the project:-
 
 This project is scoped to show the execution of the Breadth First Search algorithms to solve 8 puzzle problem.It is educational based rather than optimised for performance.
 
-*Target users
+*Target users:-
 
 This project is mainly for the individuals,students or teachers who are interested in or studying fundamental concepts in Computer Science and Artificial Intelligence.
 
-*High-level features
+*High-level features:-
+
 BFS will provide a solution if one is available. 
 It will find the simplest one solution that needs few steps.
 It guarantees an optimal solution.
