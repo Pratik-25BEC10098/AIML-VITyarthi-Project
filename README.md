@@ -27,5 +27,5 @@ Run the code.
 Use a simple initial state as if it gets complex,maybe it takes a lot of time and memory to generate goal result.
 
 *Screenshot:-  
-[image alt](https://github.com/Pratik-25BEC10098/AIML-VITyarthi-Project/blob/aaa88ed18570248014c3eb7962b7c81e6d42556d/Screenshot%201.png)
-[image alt]()
+[image alt](https://github.com/Pratik-25BEC10098/AIML-VITyarthi-Project/blob/aaa88ed18570248014c3eb7962b7c81e6d42556d/Screenshot%201.png)  
+[image alt](https://github.com/Pratik-25BEC10098/AIML-VITyarthi-Project/blob/aaa88ed18570248014c3eb7962b7c81e6d42556d/Screenshot%202.png)
