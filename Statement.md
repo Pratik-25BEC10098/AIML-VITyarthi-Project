@@ -11,7 +11,8 @@ This project is scoped to show the execution of the Breadth First Search algorit
 This project is mainly for the individuals,students or teachers who are interested in or studying fundamental concepts in Computer Science and Artificial Intelligence.
 
 *High-level features
-
+BFS will provide a solution if one is available. 
+It will find the simplest one solution that needs few steps.
 It guarantees an optimal solution.
-It stores and prints sequences of moves from initial state to goal state.
+Program stores and prints sequences of moves from initial state to goal state.
 It explores all the possible configurations until goal state is reached.
